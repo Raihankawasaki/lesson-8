@@ -1,0 +1,3 @@
+ 
+xyz=(input("Enter the charecter or digit you want to see the ASCII of. \n"))
+print(ord(xyz))
